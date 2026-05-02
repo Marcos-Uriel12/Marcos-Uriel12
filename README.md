@@ -1,26 +1,38 @@
-# Hola, soy Marcos 👋
+# Marcos Machuca — Backend Developer 🐍
 
-Estudiante de programación enfocado en desarrollo backend con Python.
+Desarrollador backend autodidacta con foco en Python y FastAPI. 
+Construyo APIs limpias, bien estructuradas y listas para producción.
 
-## 🛠️ Skills
+📍 Buenos Aires, Argentina  
+📬 marcosurielmachuca49@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/marcos-machuca-384500327)
 
-- **Lenguajes:** Python, SQL
-- **Frameworks:** FastAPI, SQLAlchemy
-- **Bases de datos:** MySQL, Redis
-- **Herramientas:** Docker, Git, Alembic, pytest
+---
 
-## 🚀 Proyectos
+## 🛠️ Stack
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [Blogging Platform API](https://github.com/Marcos-Uriel12/blogging-platform-api) | API REST para gestión de blogs con auth JWT | FastAPI, MySQL |
-| [URL Shortener](https://github.com/Marcos-Uriel12/URL-Shortener) | Servicio de acortamiento de URLs con stats | FastAPI, MySQL |
-| [Caching Proxy](https://github.com/Marcos-Uriel12/Caching-Proxy) | Proxy HTTP con caché en Redis | FastAPI, Redis |
-| [Workout Tracker API](https://github.com/Marcos-Uriel12/Workout-Tracker-API) | Seguimiento de entrenamientos con progreso | FastAPI, MySQL |
-| [Image Processing Service](https://github.com/Marcos-Uriel12/image-processing-service) | Procesamiento de imágenes con Pillow | FastAPI, MySQL |
-| [Real-time Leaderboard](https://github.com/Marcos-Uriel12/realtime-leaderboard) | Ranking en tiempo real con WebSockets | FastAPI, Redis |
-| [Movie Reservation System](https://github.com/Marcos-Uriel12/movies_reservation) | Sistema de reservas con emails y roles | FastAPI, MySQL |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack | Demo |
+|----------|-------------|-------|------|
+| [Gestion-PYME](https://github.com/Marcos-Uriel12/Gestion-PYME) | Sistema de gestión para PYME con pedidos, precios por zona y emails async | FastAPI · PostgreSQL · Celery · Redis | [🔗 Live](https://gestion-pyme-production-849b.up.railway.app/docs) |
+| [Movie Reservation](https://github.com/Marcos-Uriel12/movies_reservation) | Reserva de asientos con roles, emails y expiración automática | FastAPI · MySQL · JWT | — |
+| [Real-time Leaderboard](https://github.com/Marcos-Uriel12/realtime-leaderboard) | Ranking en tiempo real con WebSockets y Redis sorted sets | FastAPI · Redis · WebSockets | — |
+| [Caching Proxy](https://github.com/Marcos-Uriel12/Caching-Proxy) | Proxy HTTP con caché en Redis y TTL | FastAPI · Redis | — |
+| [Blogging Platform API](https://github.com/Marcos-Uriel12/blogging-platform-api) | API REST para blogs con auth JWT y tags | FastAPI · MySQL | — |
+
+---
 
 ## 📫 Contacto
 
-- GitHub: [@Marcos-Uriel12](https://github.com/Marcos-Uriel12)
+¿Tenés un proyecto o una oportunidad? Escribime.  
+📧 marcosurielmachuca49@gmail.com
