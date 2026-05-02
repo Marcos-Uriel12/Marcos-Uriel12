@@ -1,6 +1,6 @@
 # Marcos Machuca — Backend Developer 🐍
 
-Desarrollador backend autodidacta con foco en Python y FastAPI. 
+Desarrollador backend en Python y FastAPI. 
 Construyo APIs limpias, bien estructuradas y listas para producción.
 
 📍 Buenos Aires, Argentina  
