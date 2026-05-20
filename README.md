@@ -28,7 +28,7 @@ Construyo APIs limpias, bien estructuradas y listas para producción.
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [BarberPro](https://github.com/Marcos-Uriel12/BarberPro) | Sistema de turnos para barberías con dashboard admin, WhatsApp y panel React | FastAPI · React · PostgreSQL · Redis |
-| [NutriStore](https://github.com/Marcos-Uriel12/NutriStore) | E-commerce para dietética con carrito en Redis, HTMX y panel admin | FastAPI · PostgreSQL · Redis · HTMX |
+| [NutriStore](https://github.com/Marcos-Uriel12/NutriStore) | E-commerce completo para dietética con carrito anónimo en Redis.<br>Panel admin con CRUD de productos, pedidos y zonas de envío.<br>Frontend con Bootstrap + HTMX, backend FastAPI async con PostgreSQL. | FastAPI · PostgreSQL · Redis · HTMX |
 | [Gestion-PYME](https://github.com/Marcos-Uriel12/Gestion-PYME) | Gestión PYME con pedidos, precios por zona y emails async | FastAPI · PostgreSQL · Celery · Redis |
 | [Movie Reservation](https://github.com/Marcos-Uriel12/movies_reservation) | Reserva de asientos con roles, emails y expiración automática | FastAPI · MySQL · JWT |
 | [Real-time Leaderboard](https://github.com/Marcos-Uriel12/realtime-leaderboard) | Ranking en tiempo real con WebSockets y Redis sorted sets | FastAPI · Redis · WebSockets |
